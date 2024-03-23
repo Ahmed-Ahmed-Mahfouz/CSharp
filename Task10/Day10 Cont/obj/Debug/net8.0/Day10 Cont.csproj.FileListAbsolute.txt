@@ -1,0 +1,14 @@
+D:\C#-ITI\Labs\Day10\Day10\Day10 Cont\bin\Debug\net8.0\Day10 Cont.exe
+D:\C#-ITI\Labs\Day10\Day10\Day10 Cont\bin\Debug\net8.0\Day10 Cont.deps.json
+D:\C#-ITI\Labs\Day10\Day10\Day10 Cont\bin\Debug\net8.0\Day10 Cont.runtimeconfig.json
+D:\C#-ITI\Labs\Day10\Day10\Day10 Cont\bin\Debug\net8.0\Day10 Cont.dll
+D:\C#-ITI\Labs\Day10\Day10\Day10 Cont\bin\Debug\net8.0\Day10 Cont.pdb
+D:\C#-ITI\Labs\Day10\Day10\Day10 Cont\obj\Debug\net8.0\Day10 Cont.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-ITI\Labs\Day10\Day10\Day10 Cont\obj\Debug\net8.0\Day10 Cont.AssemblyInfoInputs.cache
+D:\C#-ITI\Labs\Day10\Day10\Day10 Cont\obj\Debug\net8.0\Day10 Cont.AssemblyInfo.cs
+D:\C#-ITI\Labs\Day10\Day10\Day10 Cont\obj\Debug\net8.0\Day10 Cont.csproj.CoreCompileInputs.cache
+D:\C#-ITI\Labs\Day10\Day10\Day10 Cont\obj\Debug\net8.0\Day10 Cont.dll
+D:\C#-ITI\Labs\Day10\Day10\Day10 Cont\obj\Debug\net8.0\refint\Day10 Cont.dll
+D:\C#-ITI\Labs\Day10\Day10\Day10 Cont\obj\Debug\net8.0\Day10 Cont.pdb
+D:\C#-ITI\Labs\Day10\Day10\Day10 Cont\obj\Debug\net8.0\Day10 Cont.genruntimeconfig.cache
+D:\C#-ITI\Labs\Day10\Day10\Day10 Cont\obj\Debug\net8.0\ref\Day10 Cont.dll

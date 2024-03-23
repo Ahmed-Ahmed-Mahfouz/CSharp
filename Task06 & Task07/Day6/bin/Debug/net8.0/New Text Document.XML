@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Day6</name>
+    </assembly>
+    <members>
+        <member name="T:Day6.SecurityLevel">
+            <summary>
+            Enum for security levels (privileges) 
+            </summary>
+        </member>
+        <member name="T:Day6.Gender">
+            <summary>
+            Enum for gender 
+            </summary>
+        </member>
+        <member name="T:Day6.HiringDate">
+            <summary>
+            Struct for hiring date 
+            </summary>
+        </member>
+        <member name="T:Day6.Employee">
+            <summary>
+            Struct for employee details and security privileges 
+            </summary>
+        </member>
+        <member name="F:Day6.Employee.id">
+            <summary>
+            Id of the employee
+            salary of the employee
+            hire date of the employee
+            gender of the employee
+            permissions of the employee 
+            </summary>
+        </member>
+        <member name="M:Day6.Employee.Program.LogError(System.String)">
+            <summary>
+            Logs an error message to a text file with the current date and time in the format "DD-MM-YYYY HH:MM:SS"
+            </summary>
+            <param name="errorMessage"></param>
+        </member>
+    </members>
+</doc>

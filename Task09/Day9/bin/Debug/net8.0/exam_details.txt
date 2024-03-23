@@ -1,0 +1,17 @@
+Exam Time: 12/31/2023 6:13:42 PM
+Number of Questions: 5
+Question: True of False
+Body: True or false question
+Marks: 2
+Answer: True
+
+Question: Choose One
+Body: Choose one question
+Marks: 5
+Answer: Option1
+
+Question: Choose All
+Body: Choose All question
+Marks: 5
+Answer: OptionA,OptionB
+

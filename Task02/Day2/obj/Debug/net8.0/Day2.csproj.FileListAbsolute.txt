@@ -1,0 +1,14 @@
+D:\C#-ITI\Labs\Day2\Day2\Day2\obj\Debug\net8.0\Day2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-ITI\Labs\Day2\Day2\Day2\obj\Debug\net8.0\Day2.AssemblyInfoInputs.cache
+D:\C#-ITI\Labs\Day2\Day2\Day2\obj\Debug\net8.0\Day2.AssemblyInfo.cs
+D:\C#-ITI\Labs\Day2\Day2\Day2\obj\Debug\net8.0\Day2.csproj.CoreCompileInputs.cache
+D:\C#-ITI\Labs\Day2\Day2\Day2\bin\Debug\net8.0\Day2.exe
+D:\C#-ITI\Labs\Day2\Day2\Day2\bin\Debug\net8.0\Day2.deps.json
+D:\C#-ITI\Labs\Day2\Day2\Day2\bin\Debug\net8.0\Day2.runtimeconfig.json
+D:\C#-ITI\Labs\Day2\Day2\Day2\bin\Debug\net8.0\Day2.dll
+D:\C#-ITI\Labs\Day2\Day2\Day2\bin\Debug\net8.0\Day2.pdb
+D:\C#-ITI\Labs\Day2\Day2\Day2\obj\Debug\net8.0\Day2.dll
+D:\C#-ITI\Labs\Day2\Day2\Day2\obj\Debug\net8.0\refint\Day2.dll
+D:\C#-ITI\Labs\Day2\Day2\Day2\obj\Debug\net8.0\Day2.pdb
+D:\C#-ITI\Labs\Day2\Day2\Day2\obj\Debug\net8.0\Day2.genruntimeconfig.cache
+D:\C#-ITI\Labs\Day2\Day2\Day2\obj\Debug\net8.0\ref\Day2.dll

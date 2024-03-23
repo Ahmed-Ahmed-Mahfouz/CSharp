@@ -1,0 +1,14 @@
+D:\C#-ITI\Labs\Day6\Day6\Day6-Contd\bin\Debug\net8.0\Day6-Contd.exe
+D:\C#-ITI\Labs\Day6\Day6\Day6-Contd\bin\Debug\net8.0\Day6-Contd.deps.json
+D:\C#-ITI\Labs\Day6\Day6\Day6-Contd\bin\Debug\net8.0\Day6-Contd.runtimeconfig.json
+D:\C#-ITI\Labs\Day6\Day6\Day6-Contd\bin\Debug\net8.0\Day6-Contd.dll
+D:\C#-ITI\Labs\Day6\Day6\Day6-Contd\bin\Debug\net8.0\Day6-Contd.pdb
+D:\C#-ITI\Labs\Day6\Day6\Day6-Contd\obj\Debug\net8.0\Day6-Contd.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-ITI\Labs\Day6\Day6\Day6-Contd\obj\Debug\net8.0\Day6-Contd.AssemblyInfoInputs.cache
+D:\C#-ITI\Labs\Day6\Day6\Day6-Contd\obj\Debug\net8.0\Day6-Contd.AssemblyInfo.cs
+D:\C#-ITI\Labs\Day6\Day6\Day6-Contd\obj\Debug\net8.0\Day6-Contd.csproj.CoreCompileInputs.cache
+D:\C#-ITI\Labs\Day6\Day6\Day6-Contd\obj\Debug\net8.0\Day6-Contd.dll
+D:\C#-ITI\Labs\Day6\Day6\Day6-Contd\obj\Debug\net8.0\refint\Day6-Contd.dll
+D:\C#-ITI\Labs\Day6\Day6\Day6-Contd\obj\Debug\net8.0\Day6-Contd.pdb
+D:\C#-ITI\Labs\Day6\Day6\Day6-Contd\obj\Debug\net8.0\Day6-Contd.genruntimeconfig.cache
+D:\C#-ITI\Labs\Day6\Day6\Day6-Contd\obj\Debug\net8.0\ref\Day6-Contd.dll

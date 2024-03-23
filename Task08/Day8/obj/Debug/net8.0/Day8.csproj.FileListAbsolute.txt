@@ -1,0 +1,14 @@
+D:\C#-ITI\Labs\Day8\Day8\Day8\bin\Debug\net8.0\Day8.exe
+D:\C#-ITI\Labs\Day8\Day8\Day8\bin\Debug\net8.0\Day8.deps.json
+D:\C#-ITI\Labs\Day8\Day8\Day8\bin\Debug\net8.0\Day8.runtimeconfig.json
+D:\C#-ITI\Labs\Day8\Day8\Day8\bin\Debug\net8.0\Day8.dll
+D:\C#-ITI\Labs\Day8\Day8\Day8\bin\Debug\net8.0\Day8.pdb
+D:\C#-ITI\Labs\Day8\Day8\Day8\obj\Debug\net8.0\Day8.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-ITI\Labs\Day8\Day8\Day8\obj\Debug\net8.0\Day8.AssemblyInfoInputs.cache
+D:\C#-ITI\Labs\Day8\Day8\Day8\obj\Debug\net8.0\Day8.AssemblyInfo.cs
+D:\C#-ITI\Labs\Day8\Day8\Day8\obj\Debug\net8.0\Day8.csproj.CoreCompileInputs.cache
+D:\C#-ITI\Labs\Day8\Day8\Day8\obj\Debug\net8.0\Day8.dll
+D:\C#-ITI\Labs\Day8\Day8\Day8\obj\Debug\net8.0\refint\Day8.dll
+D:\C#-ITI\Labs\Day8\Day8\Day8\obj\Debug\net8.0\Day8.pdb
+D:\C#-ITI\Labs\Day8\Day8\Day8\obj\Debug\net8.0\Day8.genruntimeconfig.cache
+D:\C#-ITI\Labs\Day8\Day8\Day8\obj\Debug\net8.0\ref\Day8.dll
